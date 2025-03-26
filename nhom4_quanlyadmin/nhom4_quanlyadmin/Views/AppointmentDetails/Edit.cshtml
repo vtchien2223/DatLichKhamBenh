@@ -1,0 +1,59 @@
+﻿@model nhom4_quanlyadmin.Models.AppointmentDetails
+
+<h2 class="text-center mb-4">Edit Appointment</h2>
+
+<form method="post">
+    <!-- Appointment ID (Readonly) -->
+    <div class="form-group">
+        <label for="AppointmentId">Appointment ID</label>
+        @Html.DropDownListFor(model => model.AppointmentId,
+                 new SelectList(ViewBag.Appointments, "Id", "Id", Model.AppointmentId),
+                 "Select Appointment",
+                 new { @class = "form-control", required = "required" })
+    </div>
+
+    <!-- User Name (Readonly) -->
+    <div class="form-group">
+        <label for="UserName">User Name</label>
+        <input type="text" class="form-control" id="UserName" name="UserName" value="@Model.UserName" readonly />
+    </div>
+
+    <!-- Doctor Dropdown -->
+    <div class="form-group">
+        <label for="DoctorId">Doctor</label>
+        @Html.DropDownListFor(model => model.DoctorId,
+                 new SelectList(ViewBag.Doctors, "Id", "FullName", Model.DoctorId),
+                 "Select Doctor",
+                 new { @class = "form-control", required = "required" })
+    </div>
+
+    <!-- Service Dropdown -->
+    <div class="form-group">
+        <label for="ServiceId">Service</label>
+        @Html.DropDownListFor(model => model.ServiceId,
+                 new SelectList(ViewBag.Services, "Id", "ServiceName", Model.ServiceId),
+                 "Select Service",
+                 new { @class = "form-control", required = "required" })
+    </div>
+
+    <!-- Appointment Date -->
+    <div class="form-group">
+        <label for="AppointmentDate">Appointment Date</label>
+        <input type="date" class="form-control" id="AppointmentDate" name="AppointmentDate" value="@Model.AppointmentDate?.ToString("yyyy-MM-dd")" />
+    </div>
+
+    <!-- Created At (Readonly) -->
+    <div class="form-group">
+        <label for="CreatedAt">Created At</label>
+        <input type="datetime-local" class="form-control" id="CreatedAt" name="CreatedAt" value="@Model.CreatedAt.ToString("yyyy-MM-ddTH:mm:ss")" readonly />
+    </div>
+
+    <!-- Submit Button -->
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+<style>
+    .form-group label {
+        font-weight: bold;
+    }
+</style>

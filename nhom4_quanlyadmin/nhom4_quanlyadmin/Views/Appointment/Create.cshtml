@@ -1,0 +1,81 @@
+﻿@model nhom4_quanlyadmin.Models.Appointments
+
+<h1 class="text-center mb-4">Create New Appointment</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        <i class="fas fa-exclamation-circle"></i> @TempData["ErrorMessage"]
+    </div>
+}
+
+<!-- Appointment Form -->
+<form asp-action="Create" method="post" class="appointment-form">
+    <div class="form-group">
+        <label for="AppointmentDateStart">Appointment Start Time</label>
+        <input type="time" class="form-control" id="AppointmentDateStart" name="AppointmentDateStart" value="@Model?.AppointmentDateStart?.ToString("hh\\:mm")" required />
+    </div>
+
+    <div class="form-group">
+        <label for="AppointmentDateEnd">Appointment End Time</label>
+        <input type="time" class="form-control" id="AppointmentDateEnd" name="AppointmentDateEnd" value="@Model?.AppointmentDateEnd?.ToString("hh\\:mm")" required />
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary btn-lg mt-3 w-100">Save Appointment</button>
+    </div>
+</form>
+
+<!-- Custom styles for the form -->
+<style>
+    .appointment-form {
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background-color: #f8f9fa;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .form-control {
+        font-size: 16px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        padding: 10px 20px;
+        font-size: 18px;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    .text-center {
+        text-align: center;
+    }
+
+    /* Alert styles */
+    .alert {
+        margin-top: 10px;
+        padding: 15px;
+        font-size: 16px;
+    }
+
+        .alert i {
+            margin-right: 10px;
+        }
+</style>

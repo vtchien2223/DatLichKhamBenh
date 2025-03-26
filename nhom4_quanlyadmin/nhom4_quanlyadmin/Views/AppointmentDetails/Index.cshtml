@@ -1,0 +1,47 @@
+﻿@model IEnumerable<nhom4_quanlyadmin.Models.AppointmentDetails>
+
+<h2>Danh sách chi tiết cuộc hẹn</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Người đặt</th>
+            <th>Bác sĩ</th>
+            <th>Dịch vụ</th>
+            <th>Ngày</th>
+            <th>Thời gian bắt đầu</th>
+            <th>Thời gian kết thúc</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appointment in Model)
+        {
+            <tr>
+                <td>@appointment.UserName</td>
+                <td>@appointment.Doctor.FullName</td>
+                <td>@appointment.Service.ServiceName</td>
+                <td>@appointment.AppointmentDate?.ToString("dd/MM/yyyy")</td>
+                <td>@appointment.AppointmentDateStart</td>
+                <td>@appointment.AppointmentDateEnd</td>
+                <td>
+                    <a href="@Url.Action("Edit", "AppointmentDetails", new { id = appointment.Id })" class="btn btn-primary">Sửa</a>
+                    <form asp-action="Delete" asp-route-id="@appointment.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Xóa</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "AppointmentDetails")" class="btn btn-success">Thêm mới</a>

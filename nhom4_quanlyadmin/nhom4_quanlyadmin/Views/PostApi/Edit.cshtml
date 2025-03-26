@@ -1,0 +1,40 @@
+﻿@model nhom4_quanlyadmin.Models.Post
+
+<h2 class="text-center mb-4">Edit Post</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Title">Title</label>
+        <input type="text" class="form-control" id="Title" name="Title" value="@Model.Title" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Content">Content</label>
+        <textarea class="form-control" id="Content" name="Content" rows="5" required>@Model.Content</textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="Author">Author</label>
+        <input type="text" class="form-control" id="Author" name="Author" value="@Model.Author" required />
+    </div>
+
+    <div class="form-group">
+        <label for="ImageUrl">Image URL</label>
+        <input type="text" class="form-control" id="ImageUrl" name="ImageUrl" value="@Model.ImageUrl" />
+    </div>
+
+    <div class="form-group">
+        <label for="CreatedAt">Created At</label>
+        <!-- If you want the user to edit CreatedAt -->
+        <input type="datetime-local" class="form-control" id="CreatedAt" name="CreatedAt" value="@Model.CreatedAt.ToString("yyyy-MM-ddTH:mm:ss")" />
+
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+<style>
+    .form-group label {
+        font-weight: bold;
+    }
+</style>

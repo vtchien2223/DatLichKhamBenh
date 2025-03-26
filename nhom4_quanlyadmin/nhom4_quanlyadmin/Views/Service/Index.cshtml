@@ -1,0 +1,120 @@
+﻿@model List<nhom4_quanlyadmin.Models.ServiceModel>
+
+<h1 class="text-center mb-4">Service List</h1>
+
+<!-- Thông báo thành công -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+    </div>
+}
+
+<!-- Thông báo lỗi -->
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        <i class="fas fa-exclamation-circle"></i> @TempData["ErrorMessage"]
+    </div>
+}
+
+<!-- Nút thêm Service -->
+<a asp-action="Create" class="btn btn-primary mb-3">
+    <i class="fas fa-plus"></i> Add New Service
+</a>
+
+<!-- Bảng dịch vụ -->
+<table class="table table-bordered table-striped table-hover">
+    <thead class="thead-dark">
+        <tr>
+            <th>ID</th>
+            <th>Service Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th class="text-center" style="width: 10%;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var service in Model)
+        {
+            <tr>
+                <td>@service.Id</td>
+                <td>@service.ServiceName</td>
+                <td>@service.Description</td>
+                <td>@service.Price</td>
+                <td class="text-center">
+                    <!-- Nút Edit -->
+                    <a asp-action="Edit" asp-route-id="@service.Id" class="btn btn-sm btn-warning mx-1" title="Edit">
+                        <i class="fas fa-pen"></i>
+                    </a>
+
+                    <!-- Nút Delete với xác nhận -->
+                    <form asp-action="Delete" asp-route-id="@service.Id" method="post" style="display:inline;" onsubmit="return confirmDelete('@service.ServiceName');">
+                        <button type="submit" class="btn btn-sm btn-danger" title="Delete">
+                            <i class="fas fa-trash"></i>
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- JavaScript xác nhận trước khi xóa -->
+<script>
+    function confirmDelete(serviceName) {
+        return confirm(`Are you sure you want to delete service "${serviceName}"?`);
+    }
+</script>
+
+<!-- Custom CSS Styling -->
+<style>
+    /* Bảng có hiệu ứng hover và màu sắc đẹp mắt */
+    .table th, .table td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    /* Thêm một màu nền nhẹ cho các hàng lẻ trong bảng */
+    .table-striped tbody tr:nth-child(odd) {
+        background-color: #f9f9f9;
+    }
+
+    /* Hiệu ứng hover cho các hàng trong bảng */
+    .table-hover tbody tr:hover {
+        background-color: #e9ecef;
+    }
+
+    /* Tạo màu nền cho các tiêu đề cột */
+    .table th {
+        background-color: #007bff;
+        color: white;
+    }
+
+    /* Nút thêm Service */
+    .btn-primary {
+        font-size: 1.1rem;
+        padding: 12px 20px;
+    }
+
+        /* Hiệu ứng hover cho các nút */
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    /* Định dạng nút chỉnh sửa và xóa */
+    .btn-sm i {
+        margin-right: 5px;
+    }
+
+    /* Thêm icon vào nút xóa và chỉnh sửa */
+    .btn-sm {
+        padding: 5px 10px;
+    }
+
+    /* Cải thiện giao diện nút xóa */
+    .btn-danger:hover {
+        background-color: #c82333;
+    }
+</style>

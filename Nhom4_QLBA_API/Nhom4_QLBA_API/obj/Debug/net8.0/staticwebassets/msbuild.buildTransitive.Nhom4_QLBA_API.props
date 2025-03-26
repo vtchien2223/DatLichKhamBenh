@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nhom4_QLBA_API.props" />
+</Project>

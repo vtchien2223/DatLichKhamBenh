@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\nhom4_quanlyadmin.props" />
+</Project>

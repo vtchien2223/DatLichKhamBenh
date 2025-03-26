@@ -1,0 +1,79 @@
+﻿@model nhom4_quanlyadmin.Models.ServiceModel
+
+<h1 class="text-center mb-4">Edit Service</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        <i class="fas fa-exclamation-circle"></i> @TempData["ErrorMessage"]
+    </div>
+}
+
+<!-- Service Edit Form -->
+<form asp-action="Edit" method="post" class="service-form">
+    <div class="form-group">
+        <label for="ServiceName">Service Name</label>
+        <input type="text" class="form-control" id="ServiceName" name="ServiceName" value="@Model.ServiceName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <textarea class="form-control" id="Description" name="Description" required>@Model.Description</textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="Price">Price</label>
+        <input type="text" class="form-control" id="Price" name="Price" value="@Model.Price?.ToString("F2")" required />
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary btn-lg mt-3 w-100">Save Changes</button>
+    </div>
+</form>
+
+<!-- Custom Styles -->
+<style>
+    .service-form {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background-color: #f8f9fa;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .form-control {
+        border-radius: 5px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        padding: 12px 20px;
+        font-size: 1.1rem;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    .alert {
+        margin-top: 10px;
+    }
+
+    h1 {
+        color: #333;
+    }
+</style>

@@ -1,0 +1,12 @@
+﻿@model nhom4_quanlyadmin.Models.Specialty
+
+<h1>Create Specialty</h1>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="SpecialtyName">Specialty Name</label>
+        <input type="text" class="form-control" id="SpecialtyName" name="SpecialtyName" value="@Model?.SpecialtyName" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Specialty</button>
+</form>

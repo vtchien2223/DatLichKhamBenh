@@ -1,0 +1,116 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4 mb-4">WELCOME YOU</h1>
+
+    <!-- Container for the buttons with the grid system -->
+    <div class="container">
+        <div class="row justify-content-center">
+            <!-- Column 1 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <a href="/Doctor" class="btn btn-primary btn-lg btn-block square-btn">
+                    <i class="fas fa-user-md" style="font-size: 40px;"></i> <!-- Icon above text -->
+                    <span class="d-block mt-2">Go to Manage Doctors</span>
+                </a>
+            </div>
+            <!-- Column 2 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <a href="/Patient" class="btn btn-secondary btn-lg btn-block square-btn">
+                    <i class="fas fa-procedures" style="font-size: 40px;"></i> <!-- Icon above text -->
+                    <span class="d-block mt-2">Go to Manage Patients</span>
+                </a>
+            </div>
+            <!-- Column 3 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <a href="/Appointment" class="btn btn-success btn-lg btn-block square-btn">
+                    <i class="fas fa-calendar-check" style="font-size: 40px;"></i> <!-- Icon above text -->
+                    <span class="d-block mt-2">Go to Manage Appointment</span>
+                </a>
+            </div>
+        </div>
+
+        <div class="row justify-content-center">
+            <!-- Column 4 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <a href="/Service" class="btn btn-primary btn-lg btn-block square-btn">
+                    <i class="fas fa-cogs" style="font-size: 40px;"></i> <!-- Icon above text -->
+                    <span class="d-block mt-2">Go to Manage Service</span>
+                </a>
+            </div>
+            <!-- Column 5 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <a href="/Specialty" class="btn btn-success btn-lg btn-block square-btn">
+                    <i class="fas fa-heartbeat" style="font-size: 40px;"></i> <!-- Icon above text -->
+                    <span class="d-block mt-2">Go to Manage Specialty</span>
+                </a>
+            </div>
+            <!-- Column 6 -->
+            <div class="col-lg-4 col-md-6 mb-4">
+                <a href="/AppointmentDetails" class="btn btn-success btn-lg btn-block square-btn">
+                    <i class="fas fa-calendar-alt" style="font-size: 40px;"></i> <!-- Icon above text -->
+                    <span class="d-block mt-2">Go to Manage AppointmentDetails</span>
+                </a>
+            </div>
+
+            <div class="col-lg-4 col-md-6 mb-4">
+                <a href="/PostApi" class="btn btn-success btn-lg btn-block square-btn">
+                    <i class="fas fa-calendar-alt" style="font-size: 40px;"></i> <!-- Icon above text -->
+                    <span class="d-block mt-2">Go to Manage Post</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .btn-block {
+        width: 100%; /* Ensures buttons take full width of the column */
+    }
+
+    .square-btn {
+        height: 150px; /* Set the height to make the buttons square */
+        text-align: center;
+        padding: 15px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    .display-4 {
+        font-size: 3rem;
+    }
+
+    .container {
+        max-width: 1200px;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    /* Customize icon size */
+    .btn i {
+        font-size: 40px; /* Adjust size of the icon */
+    }
+
+    .btn .d-block {
+        font-size: 14px;
+    }
+
+    .d-block {
+        display: block;
+    }
+
+    .btn-block span {
+        margin-top: 10px;
+    }
+</style>

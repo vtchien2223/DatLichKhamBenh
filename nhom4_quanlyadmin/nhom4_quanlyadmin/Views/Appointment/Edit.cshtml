@@ -1,0 +1,71 @@
+﻿@model nhom4_quanlyadmin.Models.Appointments
+
+<h1 class="text-center mb-4">Edit Appointment</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        <i class="fas fa-exclamation-circle"></i> @TempData["ErrorMessage"]
+    </div>
+}
+
+<form asp-action="Edit" method="post" class="appointment-form">
+    <div class="form-group">
+        <label for="appointmentDateStart">Start Time</label>
+        <input type="time" id="appointmentDateStart" name="AppointmentDateStart" class="form-control" value="@Model.AppointmentDateStartString" required />
+    </div>
+
+    <div class="form-group">
+        <label for="appointmentDateEnd">End Time</label>
+        <input type="time" id="appointmentDateEnd" name="AppointmentDateEnd" class="form-control" value="@Model.AppointmentDateEndString" required />
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary btn-lg mt-3 w-100">Save Changes</button>
+    </div>
+</form>
+
+<style>
+    .appointment-form {
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background-color: #f8f9fa;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    h1 {
+        color: #333;
+    }
+
+    .alert {
+        margin-top: 10px;
+    }
+
+    /* Thêm hiệu ứng hover cho nút */
+    .btn-primary i {
+        margin-right: 10px; /* Khoảng cách giữa icon và chữ */
+    }
+</style>

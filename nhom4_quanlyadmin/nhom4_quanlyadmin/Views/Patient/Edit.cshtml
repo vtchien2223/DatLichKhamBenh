@@ -1,0 +1,86 @@
+﻿@model nhom4_quanlyadmin.Models.Patients
+
+<h1 class="text-center mb-4">Edit Patient</h1>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        <i class="fas fa-exclamation-circle"></i> @TempData["ErrorMessage"]
+    </div>
+}
+
+<form asp-action="Edit" method="post" class="patient-form">
+    <div class="form-group">
+        <label for="FullName">Full Name</label>
+        <input type="text" class="form-control" id="FullName" name="FullName" value="@Model?.FullName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="PhoneNumber">Phone Number</label>
+        <input type="text" class="form-control" id="PhoneNumber" name="PhoneNumber" value="@Model?.PhoneNumber" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" class="form-control" id="Email" name="Email" value="@Model?.Email" required />
+    </div>
+
+    <div class="form-group">
+        <label for="UrlAvatar">Avatar URL</label>
+        <input type="text" class="form-control" id="UrlAvatar" name="UrlAvatar" value="@Model?.UrlAvatar" required />
+    </div>
+
+    <div class="form-group">
+        <label for="CreatedAt">Created At</label>
+        <input type="date" class="form-control" id="CreatedAt" name="CreatedAt" value="@Model?.CreatedAt?.ToString("yyyy-MM-dd")" required />
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-primary btn-lg mt-3 w-100">Save Changes</button>
+    </div>
+</form>
+
+<style>
+    .patient-form {
+        max-width: 500px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        background-color: #f8f9fa;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    h1 {
+        color: #333;
+    }
+
+    .alert {
+        margin-top: 10px;
+    }
+
+    /* Make the submit button full width */
+    .btn-primary {
+        width: 100%;
+    }
+</style>

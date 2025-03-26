@@ -1,0 +1,63 @@
+﻿@model List<nhom4_quanlyadmin.Models.Specialty>
+
+<h1>Specialty List</h1>
+
+<!-- Thông báo thành công -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        <i class="fas fa-check-circle"></i> @TempData["SuccessMessage"]
+    </div>
+}
+
+<!-- Thông báo lỗi -->
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        <i class="fas fa-exclamation-circle"></i> @TempData["ErrorMessage"]
+    </div>
+}
+
+<!-- Nút thêm Specialty -->
+<a asp-action="Create" class="btn btn-primary mb-3">
+    <i class="fas fa-plus"></i> Add New Specialty
+</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Specialty Name</th>
+            <th class="text-center" style="width: 10%;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var specialty in Model)
+        {
+            <tr>
+                <td>@specialty.Id</td>
+                <td>@specialty.SpecialtyName</td>
+                <td class="text-center">
+                    <!-- Nút Edit -->
+                    <a asp-action="Edit" asp-route-id="@specialty.Id" class="btn btn-sm btn-warning mx-1" title="Edit">
+                        <i class="fas fa-pen"></i>
+                    </a>
+
+                    <!-- Nút Delete với xác nhận -->
+                    <form asp-action="Delete" asp-route-id="@specialty.Id" method="post" style="display:inline;" onsubmit="return confirmDelete('@specialty.SpecialtyName');">
+                        <button type="submit" class="btn btn-sm btn-danger" title="Delete">
+                            <i class="fas fa-trash"></i>
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- JavaScript xác nhận trước khi xóa -->
+<script>
+    function confirmDelete(specialtyName) {
+        return confirm(`Are you sure you want to delete specialty "${specialtyName}"?`);
+    }
+</script>
