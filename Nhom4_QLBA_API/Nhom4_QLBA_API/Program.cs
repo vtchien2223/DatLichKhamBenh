@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using Nhom4_QLBA_API;
 using Nhom4_QLBA_API.Models;
 using Nhom4_QLBA_API.Repositories;
 using System.Text;
@@ -14,7 +15,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Đăng ký Identity
-builder.Services.AddIdentity<User, IdentityRole>()
+builder.Services.AddIdentity<User, ApplicationRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>()
     .AddDefaultTokenProviders();
 
@@ -30,7 +31,8 @@ builder.Services.AddScoped<IAppointmentRepository, AppointmentRepository>();
 builder.Services.AddScoped<IDoctorRepository, DoctorRepository>();
 builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
 builder.Services.AddScoped<IPatientRepository, PatientRepository>();
-
+builder.Services.AddScoped<RoleManager<ApplicationRole>>();
+builder.Services.AddScoped<UserManager<User>>();
 // Cấu hình Swagger để tài liệu hóa API
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
@@ -63,7 +65,29 @@ builder.Services.AddSwaggerGen(options =>
         }
     });
 });
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("CanManageDoctors", policy =>
+        policy.RequireClaim("Permission", "CanManageDoctors"));
 
+    options.AddPolicy("CanManagePatients", policy =>
+        policy.RequireClaim("Permission", "CanManagePatients"));
+
+    options.AddPolicy("CanManageAppointments", policy =>
+        policy.RequireClaim("Permission", "CanManageAppointments"));
+
+    options.AddPolicy("CanManageServices", policy =>
+        policy.RequireClaim("Permission", "CanManageServices"));
+
+    options.AddPolicy("CanManageSpecialty", policy =>
+        policy.RequireClaim("Permission", "CanManageSpecialty"));
+
+    options.AddPolicy("CanManageAppointmentDetails", policy =>
+        policy.RequireClaim("Permission", "CanManageAppointmentDetails"));
+
+    options.AddPolicy("CanManagePosts", policy =>
+        policy.RequireClaim("Permission", "CanManagePosts"));
+});
 // Cấu hình CORS
 builder.Services.AddCors(options =>
 {
@@ -104,14 +128,26 @@ var app = builder.Build();
 // Tạo các Role mặc định nếu chưa tồn tại
 using (var scope = app.Services.CreateScope())
 {
-    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
-    var roles = new[] { "Admin", "User" };
+    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<ApplicationRole>>();
+    var roles = new[] { "Admin", "User", "Mod" };
 
     foreach (var role in roles)
     {
         if (!await roleManager.RoleExistsAsync(role))
         {
-            await roleManager.CreateAsync(new IdentityRole(role));
+            var newRole = new ApplicationRole { Name = role };
+            if (role == "Admin")
+            {
+                // Gán quyền mặc định cho Admin
+                newRole.CanManageDoctors = true;
+                newRole.CanManagePatients = true;
+                newRole.CanManageAppointments = true;
+                newRole.CanManageServices = true;
+                newRole.CanManageSpecialty = true;
+                newRole.CanManageAppointmentDetails = true;
+                newRole.CanManagePosts = true;
+            }
+            await roleManager.CreateAsync(newRole);
         }
     }
 }
