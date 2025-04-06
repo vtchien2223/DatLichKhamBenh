@@ -1,109 +1,113 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\",
+  "WorkspaceRootPath": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\rolepermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\rolepermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\models\\rolepermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\appointmentdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\appointmentdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\appointmentdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\postapi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\postapi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\postapi\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\postapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\postapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\postapi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\postapi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\postapi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\postapi\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\controllers\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\appointmentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\appointmentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\appointmentdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\models\\servicemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\service\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\service\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\service\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|d:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|c:\\datlichkhambenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{57B9B040-402B-4B73-90C9-73D04A92BEC7}|nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj|solutionrelative:nhom4_quanlyadmin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -114,95 +118,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RolePermissionDto.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\RolePermissionDto.cs",
-              "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Models\\RolePermissionDto.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\RolePermissionDto.cs",
-              "RelativeToolTip": "nhom4_quanlyadmin\\Models\\RolePermissionDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:37:07.253Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nhom4_quanlyadmin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwHgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T16:26:02.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationRole.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\ApplicationRole.cs",
-              "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Models\\ApplicationRole.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\ApplicationRole.cs",
-              "RelativeToolTip": "nhom4_quanlyadmin\\Models\\ApplicationRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Title": "RolePermissionDto.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\RolePermissionDto.cs",
+              "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Models\\RolePermissionDto.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\RolePermissionDto.cs",
+              "RelativeToolTip": "nhom4_quanlyadmin\\Models\\RolePermissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:36:24.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T15:37:07.253Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Services\\AuthService.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Services\\AuthService.cs",
-              "RelativeToolTip": "nhom4_quanlyadmin\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "nhom4_quanlyadmin\\Models\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:34:39.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T15:36:24.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Services\\AuthService.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Services\\AuthService.cs",
+              "RelativeToolTip": "nhom4_quanlyadmin\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:34:39.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RoleController.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\RoleController.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Controllers\\RoleController.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\RoleController.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Controllers\\RoleController.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAQwIoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T15:34:13.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-06T15:34:13.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Program.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Program.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Program.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Program.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Program.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAgwEkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +204,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppointmentDetailsController.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\AppointmentDetailsController.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\AppointmentDetailsController.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Controllers\\AppointmentDetailsController.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\AppointmentDetailsController.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\AppointmentDetailsController.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Controllers\\AppointmentDetailsController.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAAwEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +216,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\AppointmentDetails\\Edit.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\AppointmentDetails\\Edit.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\AppointmentDetails\\Edit.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\AppointmentDetails\\Edit.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\AppointmentDetails\\Edit.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\AppointmentDetails\\Edit.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAuwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -235,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Index.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Index.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\PostApi\\Index.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Index.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Index.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\PostApi\\Index.cshtml",
               "ViewState": "AgIAACUAAAAAAAAAAAAuwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -247,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Create.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Create.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\PostApi\\Create.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Create.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Create.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\PostApi\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -259,11 +252,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Edit.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Edit.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\PostApi\\Edit.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Edit.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\PostApi\\Edit.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\PostApi\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -271,11 +264,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ServiceController.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\ServiceController.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Controllers\\ServiceController.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,11 +276,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Patient\\Index.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Patient\\Index.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\Patient\\Index.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Patient\\Index.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\Patient\\Index.cshtml",
               "ViewState": "AgIAAEEAAAAAAAAAAAAuwFwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -295,11 +288,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PostApiController.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\PostApiController.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\PostApiController.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Controllers\\PostApiController.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\PostApiController.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\PostApiController.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Controllers\\PostApiController.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +300,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Post.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\Post.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\Post.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Models\\Post.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\Post.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\Post.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Models\\Post.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +312,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "DoctorController.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\DoctorController.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Controllers\\DoctorController.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,11 +324,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\HomeController.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -343,11 +336,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Doctors.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\Doctors.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\Doctors.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Models\\Doctors.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\Doctors.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\Doctors.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Models\\Doctors.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -355,11 +348,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ServiceModel.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\ServiceModel.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\ServiceModel.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Models\\ServiceModel.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\ServiceModel.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Models\\ServiceModel.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Models\\ServiceModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,11 +360,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\AppointmentDetails\\Index.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\AppointmentDetails\\Index.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\AppointmentDetails\\Index.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\AppointmentDetails\\Index.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\AppointmentDetails\\Index.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\AppointmentDetails\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -379,11 +372,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Patient\\Edit.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Patient\\Edit.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\Patient\\Edit.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Patient\\Edit.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Patient\\Edit.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\Patient\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -391,11 +384,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PatientController.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\PatientController.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Controllers\\PatientController.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Controllers\\PatientController.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Controllers\\PatientController.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,11 +396,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ApiService.cs",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Services\\ApiService.cs",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Services\\ApiService.cs",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Services\\ApiService.cs",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Services\\ApiService.cs",
               "RelativeToolTip": "nhom4_quanlyadmin\\Services\\ApiService.cs",
               "ViewState": "AgIAAIkAAAAAAAAAAAA6wKEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -415,11 +408,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -427,11 +420,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Auth\\Login.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Auth\\Login.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -439,11 +432,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Service\\Create.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Service\\Create.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\Service\\Create.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Service\\Create.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Service\\Create.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\Service\\Create.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAmwCQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -451,11 +444,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Service\\Edit.cshtml",
+              "DocumentMoniker": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Service\\Edit.cshtml",
               "RelativeDocumentMoniker": "nhom4_quanlyadmin\\Views\\Service\\Edit.cshtml",
-              "ToolTip": "D:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Service\\Edit.cshtml",
+              "ToolTip": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\Views\\Service\\Edit.cshtml",
               "RelativeToolTip": "nhom4_quanlyadmin\\Views\\Service\\Edit.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAmwCQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

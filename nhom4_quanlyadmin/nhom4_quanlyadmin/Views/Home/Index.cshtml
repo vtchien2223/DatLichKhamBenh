@@ -1,11 +1,17 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Http
+@{
     ViewData["Title"] = "Home Page";
+    var role = Context.Session.GetString("UserRole");
 }
 
 <div class="text-center">
-    <h1 class="display-4 mb-4">WELCOME YOU</h1>
+    <div class="d-flex justify-content-end mb-4">
+        <a href="/Auth/Login" class="btn btn-danger">
+            <i class="fas fa-sign-out-alt me-2"></i>Logout
+        </a>
+    </div>
 
-    <!-- Container for the buttons with the grid system -->
+    <h1 class="display-4 mb-4">WELCOME YOU</h1>
     <div class="container">
         <div class="row justify-content-center">
             <!-- Column 1 -->
@@ -60,6 +66,15 @@
                     <span class="d-block mt-2">Go to Manage Post</span>
                 </a>
             </div>
+            @if (role == "Admin")
+            {
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <a href="/Role" class="btn btn-warning btn-lg btn-block square-btn">
+                        <i class="fas fa-user-shield" style="font-size: 40px;"></i>
+                        <span class="d-block mt-2">Go to Manage Roles</span>
+                    </a>
+                </div>
+            }
         </div>
     </div>
 </div>

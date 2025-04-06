@@ -1,0 +1,46 @@
+@{
+    ViewData["Title"] = "Lỗi";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-lg border-0">
+                <div class="card-header bg-danger text-white">
+                    <h4 class="my-2">
+                        <i class="fas fa-exclamation-triangle me-2"></i>Lỗi @ViewBag.StatusCode
+                    </h4>
+                </div>
+                <div class="card-body p-5">
+                    <div class="text-center mb-4">
+                        <i class="fas fa-ban text-danger" style="font-size: 64px;"></i>
+                    </div>
+                    
+                    <h5 class="text-center mb-4">@ViewBag.ErrorMessage</h5>
+                    
+                    <hr class="my-4" />
+                    
+                    <div class="text-center">
+                        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">
+                            <i class="fas fa-home me-2"></i>Quay về trang chủ
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 10px;
+        overflow: hidden;
+    }
+    .card-header {
+        border-radius: 10px 10px 0 0;
+    }
+    .btn-primary {
+        padding: 10px 20px;
+        border-radius: 5px;
+    }
+</style> 
