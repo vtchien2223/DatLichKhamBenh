@@ -320,7 +320,7 @@
         }
       }
     },
-    "/register": {
+    "/api/Authenticate/register": {
       "post": {
         "tags": [
           "Authenticate"
@@ -351,7 +351,7 @@
         }
       }
     },
-    "/login": {
+    "/api/Authenticate/login": {
       "post": {
         "tags": [
           "Authenticate"
@@ -1084,6 +1084,79 @@
         }
       }
     },
+    "/api/Role": {
+      "get": {
+        "tags": [
+          "Role"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Role/{roleId}": {
+      "get": {
+        "tags": [
+          "Role"
+        ],
+        "parameters": [
+          {
+            "name": "roleId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Role"
+        ],
+        "parameters": [
+          {
+            "name": "roleId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RolePermissionDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RolePermissionDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RolePermissionDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Service": {
       "get": {
         "tags": [
@@ -1609,6 +1682,37 @@
           "role": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "RolePermissionDto": {
+        "type": "object",
+        "properties": {
+          "roleId": {
+            "type": "string",
+            "nullable": true
+          },
+          "canManageDoctors": {
+            "type": "boolean"
+          },
+          "canManagePatients": {
+            "type": "boolean"
+          },
+          "canManageAppointments": {
+            "type": "boolean"
+          },
+          "canManageServices": {
+            "type": "boolean"
+          },
+          "canManageSpecialty": {
+            "type": "boolean"
+          },
+          "canManageAppointmentDetails": {
+            "type": "boolean"
+          },
+          "canManagePosts": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

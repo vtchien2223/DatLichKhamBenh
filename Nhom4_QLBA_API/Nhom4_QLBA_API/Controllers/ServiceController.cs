@@ -16,14 +16,14 @@ namespace Nhom4_QLBA_API.Controllers
         {
             _serviceRepository = serviceRepository;
         }
-
+        [Authorize(Policy = "CanManageServices")]
         [HttpGet]
         public async Task<IActionResult> GetAllServices()
         {
             var services = await _serviceRepository.GetAllServices();
             return Ok(services);
         }
-
+        [Authorize(Policy = "CanManageServices")]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetServiceById(int id)
         {
@@ -33,16 +33,14 @@ namespace Nhom4_QLBA_API.Controllers
 
             return Ok(service);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageServices")]
         [HttpPost]
         public async Task<IActionResult> AddService([FromBody] Services service)
         {
             await _serviceRepository.AddService(service);
             return CreatedAtAction(nameof(GetServiceById), new { id = service.Id }, service);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageServices")]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateService(int id, [FromBody] Services service)
         {
@@ -52,8 +50,7 @@ namespace Nhom4_QLBA_API.Controllers
             await _serviceRepository.UpdateService(service);
             return NoContent();
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageServices")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteService(int id)
         {

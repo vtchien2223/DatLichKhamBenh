@@ -9,129 +9,133 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = nhom4_quanlyadmin
 build_property.RootNamespace = nhom4_quanlyadmin
-build_property.ProjectDir = D:\Android Studio 2022 CODE\nhom4_quanlyadmin\nhom4_quanlyadmin\
+build_property.ProjectDir = C:\DatLichKhamBenh\nhom4_quanlyadmin\nhom4_quanlyadmin\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Android Studio 2022 CODE\nhom4_quanlyadmin\nhom4_quanlyadmin
+build_property.MSBuildProjectDirectory = C:\DatLichKhamBenh\nhom4_quanlyadmin\nhom4_quanlyadmin
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/AppointmentDetails/Create.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/AppointmentDetails/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnREZXRhaWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/AppointmentDetails/Edit.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/AppointmentDetails/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnREZXRhaWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/AppointmentDetails/Index.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/AppointmentDetails/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnREZXRhaWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Appointment/Create.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Appointment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Appointment/Edit.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Appointment/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Appointment/Index.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Appointment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Auth/Login.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Doctor/Create.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Doctor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Doctor/Edit.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Doctor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Doctor/Index.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Doctor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Home/Index.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Home/Privacy.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Patient/Create.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Patient/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Patient/Edit.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Patient/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Patient/Index.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Patient/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/PostApi/Create.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/PostApi/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEFwaVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/PostApi/Edit.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/PostApi/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEFwaVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/PostApi/Index.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/PostApi/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdEFwaVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Service/Create.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Service/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Service/Edit.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Service/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Service/Index.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Service/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Shared/Error.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Specialty/Create.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Specialty/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbHR5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Specialty/Edit.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Specialty/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbHR5XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Specialty/Index.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Specialty/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbHR5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/_ViewImports.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/_ViewStart.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Android Studio 2022 CODE/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Shared/_Layout.cshtml]
+[C:/DatLichKhamBenh/nhom4_quanlyadmin/nhom4_quanlyadmin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-j723i3bzn0

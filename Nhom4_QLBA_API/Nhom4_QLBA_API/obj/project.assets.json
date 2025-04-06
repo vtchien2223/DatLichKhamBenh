@@ -4853,23 +4853,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HOME\\.nuget\\packages\\": {},
+    "C:\\Users\\hatha\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj",
+      "projectUniqueName": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj",
       "projectName": "Nhom4_QLBA_API",
-      "projectPath": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj",
-      "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-      "outputPath": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\obj\\",
+      "projectPath": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj",
+      "packagesPath": "C:\\Users\\hatha\\.nuget\\packages\\",
+      "outputPath": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hatha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4878,7 +4878,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

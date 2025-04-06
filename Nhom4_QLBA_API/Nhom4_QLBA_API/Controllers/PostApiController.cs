@@ -16,13 +16,13 @@ namespace Nhom4_QLBA_API.Controllers
         {
             _repository = repository;
         }
-
+        [Authorize(Policy = "CanManagePosts")]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Post>>> GetPosts()
         {
             return Ok(await _repository.GetAllPosts());
         }
-
+        [Authorize(Policy = "CanManagePosts")]
         [HttpGet("{id}")]
         public async Task<ActionResult<Post>> GetPost(int id)
         {
@@ -33,16 +33,14 @@ namespace Nhom4_QLBA_API.Controllers
             }
             return Ok(post);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManagePosts")]
         [HttpPost]
         public async Task<ActionResult> CreatePost(Post post)
         {
             await _repository.AddPost(post);
             return CreatedAtAction(nameof(GetPost), new { id = post.Id }, post);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManagePosts")]
         [HttpPut("{id}")]
         public async Task<ActionResult> UpdatePost(int id, Post post)
         {
@@ -53,8 +51,7 @@ namespace Nhom4_QLBA_API.Controllers
             await _repository.UpdatePost(post);
             return NoContent();
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManagePosts")]
         [HttpDelete("{id}")]
         public async Task<ActionResult> DeletePost(int id)
         {

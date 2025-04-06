@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Android Studio 2022 CODE\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj": {}
+    "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj": {}
   },
   "projects": {
-    "D:\\Android Studio 2022 CODE\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj": {
+    "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Android Studio 2022 CODE\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj",
+        "projectUniqueName": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj",
         "projectName": "nhom4_quanlyadmin",
-        "projectPath": "D:\\Android Studio 2022 CODE\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj",
-        "packagesPath": "C:\\Users\\HOME\\.nuget\\packages\\",
-        "outputPath": "D:\\Android Studio 2022 CODE\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\obj\\",
+        "projectPath": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\nhom4_quanlyadmin.csproj",
+        "packagesPath": "C:\\Users\\vcmim\\.nuget\\packages\\",
+        "outputPath": "C:\\DatLichKhamBenh\\nhom4_quanlyadmin\\nhom4_quanlyadmin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HOME\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vcmim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -75,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

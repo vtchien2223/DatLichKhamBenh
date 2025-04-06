@@ -15,14 +15,14 @@ namespace Nhom4_QLBA_API.Controllers
         {
             _specialtyRepository = specialtyRepository;
         }
-
+        [Authorize(Policy = "CanManageSpecialty")]
         [HttpGet]
         public async Task<IActionResult> GetAllSpecialties()
         {
             var specialties = await _specialtyRepository.GetAllSpecialties();
             return Ok(specialties);
         }
-
+        [Authorize(Policy = "CanManageSpecialty")]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetSpecialtyById(int id)
         {
@@ -33,8 +33,7 @@ namespace Nhom4_QLBA_API.Controllers
             }
             return Ok(specialty);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageSpecialty")]
         [HttpPost]
         public async Task<IActionResult> AddSpecialty([FromBody] Specialty specialty)
         {
@@ -46,8 +45,7 @@ namespace Nhom4_QLBA_API.Controllers
             await _specialtyRepository.AddSpecialty(specialty);
             return CreatedAtAction(nameof(GetSpecialtyById), new { id = specialty.Id }, specialty);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageSpecialty")]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateSpecialty(int id, [FromBody] Specialty specialty)
         {
@@ -59,8 +57,7 @@ namespace Nhom4_QLBA_API.Controllers
             await _specialtyRepository.UpdateSpecialty(specialty);
             return NoContent();
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageSpecialty")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteSpecialty(int id)
         {

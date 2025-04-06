@@ -16,14 +16,14 @@ namespace Nhom4_QLBA_API
         {
             _appointmentRepository = appointmentRepository;
         }
-
+        [Authorize(Policy = "CanManageAppointments")]
         [HttpGet]
         public async Task<IActionResult> GetAllAppointments()
         {
             var appointments = await _appointmentRepository.GetAllAppointments();
             return Ok(appointments);
         }
-
+        [Authorize(Policy = "CanManageAppointments")]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAppointmentById(int id)
         {
@@ -41,16 +41,14 @@ namespace Nhom4_QLBA_API
 
             return Ok(result);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageAppointments")]
         [HttpPost]
         public async Task<IActionResult> AddAppointment([FromBody] Appointments appointment)
         {
             await _appointmentRepository.AddAppointment(appointment);
             return CreatedAtAction(nameof(GetAppointmentById), new { id = appointment.Id }, appointment);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageAppointments")]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateAppointment(int id, [FromBody] Appointments appointment)
         {
@@ -60,8 +58,7 @@ namespace Nhom4_QLBA_API
             await _appointmentRepository.UpdateAppointment(appointment);
             return NoContent();
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManageAppointments")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAppointment(int id)
         {

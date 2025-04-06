@@ -16,14 +16,14 @@ namespace Nhom4_QLBA_API.Controllers
         {
             _patientRepository = patientRepository;
         }
-
+        [Authorize(Policy = "CanManagePatients")]
         [HttpGet]
         public async Task<IActionResult> GetAllPatients()
         {
             var patients = await _patientRepository.GetAllPatients();
             return Ok(patients);
         }
-
+        [Authorize(Policy = "CanManagePatients")]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetPatientById(int id)
         {
@@ -33,16 +33,14 @@ namespace Nhom4_QLBA_API.Controllers
 
             return Ok(patient);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManagePatients")]
         [HttpPost]
         public async Task<IActionResult> AddPatient([FromBody] Patients patient)
         {
             await _patientRepository.AddPatient(patient);
             return CreatedAtAction(nameof(GetPatientById), new { id = patient.Id }, patient);
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManagePatients")]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdatePatient(int id, [FromBody] Patients patient)
         {
@@ -52,8 +50,7 @@ namespace Nhom4_QLBA_API.Controllers
             await _patientRepository.UpdatePatient(patient);
             return NoContent();
         }
-
-        [Authorize(Roles = "Admin")]
+        [Authorize(Policy = "CanManagePatients")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeletePatient(int id)
         {

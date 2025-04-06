@@ -6,7 +6,7 @@
     using Microsoft.EntityFrameworkCore;
     using Nhom4_QLBA_API.Models;
 
-    public class ApplicationDbContext : IdentityDbContext<User>
+    public class ApplicationDbContext : IdentityDbContext<User, ApplicationRole, string >
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options) { }

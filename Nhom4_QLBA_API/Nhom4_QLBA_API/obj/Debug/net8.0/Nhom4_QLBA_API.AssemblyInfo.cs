@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nhom4_QLBA_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1ca10b80d5531541c8f92a719a347b76c0e43a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nhom4_QLBA_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nhom4_QLBA_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

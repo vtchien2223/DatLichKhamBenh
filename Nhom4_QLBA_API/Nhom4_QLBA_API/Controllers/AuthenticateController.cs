@@ -9,15 +9,17 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace Nhom4_QLBA_API.Models
 {
-    public class AuthenticateController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    public class AuthenticateController : ControllerBase
     {
         private readonly UserManager<User> _userManager;
-        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly RoleManager<ApplicationRole> _roleManager;
         private readonly IConfiguration _configuration;
 
         public AuthenticateController(
             UserManager<User> userManager,
-            RoleManager<IdentityRole> roleManager,
+            RoleManager<ApplicationRole> roleManager,
             IConfiguration configuration)
         {
             _userManager = userManager;
@@ -58,14 +60,13 @@ namespace Nhom4_QLBA_API.Models
             {
                 if (!await _roleManager.RoleExistsAsync(model.Role))
                 {
-                    await _roleManager.CreateAsync(new IdentityRole(model.Role));
+                    await _roleManager.CreateAsync(new ApplicationRole { Name = model.Role }); // Sử dụng ApplicationRole
                 }
                 await _userManager.AddToRoleAsync(user, model.Role);
             }
 
             return Ok(new { Status = true, Message = "User created successfully" });
         }
-
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginModel model)
         {
@@ -81,23 +82,41 @@ namespace Nhom4_QLBA_API.Models
                 });
             }
 
-            // Lấy vai trò của người dùng
             var userRoles = await _userManager.GetRolesAsync(user);
 
             var authClaims = new List<Claim>
-    {
-        new Claim(ClaimTypes.Name, user.UserName),
-        new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
-    };
+            {
+                new Claim(ClaimTypes.Name, user.UserName),
+                new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+            };
 
             foreach (var userRole in userRoles)
             {
                 authClaims.Add(new Claim(ClaimTypes.Role, userRole));
+
+                var role = await _roleManager.FindByNameAsync(userRole);
+                if (role != null)
+                {
+
+                    if (role.CanManageDoctors)
+                        authClaims.Add(new Claim("Permission", "CanManageDoctors"));
+                    if (role.CanManagePatients)
+                        authClaims.Add(new Claim("Permission", "CanManagePatients"));
+                    if (role.CanManageAppointments)
+                        authClaims.Add(new Claim("Permission", "CanManageAppointments"));
+                    if (role.CanManageServices)
+                        authClaims.Add(new Claim("Permission", "CanManageServices"));
+                    if (role.CanManageSpecialty)
+                        authClaims.Add(new Claim("Permission", "CanManageSpecialty"));
+                    if (role.CanManageAppointmentDetails)
+                        authClaims.Add(new Claim("Permission", "CanManageAppointmentDetails"));
+                    if (role.CanManagePosts)
+                        authClaims.Add(new Claim("Permission", "CanManagePosts"));
+                }
             }
 
             var token = GenerateToken(authClaims);
 
-            // Trả về thêm Role cùng với Token
             return Ok(new
             {
                 Status = true,
@@ -105,55 +124,27 @@ namespace Nhom4_QLBA_API.Models
                 Token = token,
                 Name = user.UserName,
                 Email = user.Email,
-                Role = userRoles.FirstOrDefault() // Lấy vai trò đầu tiên (hoặc có thể trả về danh sách)
+                Role = userRoles.FirstOrDefault()
             });
         }
-
-
 
         private string GenerateToken(IEnumerable<Claim> claims)
         {
             var jwtSettings = _configuration.GetSection("JWTKey");
-            var authSigningKey = new
-    SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["Secret"]));
+            var authSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtSettings["Secret"]));
 
             var tokenDescriptor = new SecurityTokenDescriptor
             {
                 Subject = new ClaimsIdentity(claims),
-                Expires =
-    DateTime.UtcNow.AddHours(Convert.ToDouble(jwtSettings["TokenExpiryTimeInHour"])),
+                Expires = DateTime.UtcNow.AddHours(Convert.ToDouble(jwtSettings["TokenExpiryTimeInHour"])),
                 Issuer = jwtSettings["ValidIssuer"],
                 Audience = jwtSettings["ValidAudience"],
-                SigningCredentials = new SigningCredentials(authSigningKey,
-    SecurityAlgorithms.HmacSha256)
+                SigningCredentials = new SigningCredentials(authSigningKey, SecurityAlgorithms.HmacSha256)
             };
 
             var tokenHandler = new JwtSecurityTokenHandler();
             var token = tokenHandler.CreateToken(tokenDescriptor);
             return tokenHandler.WriteToken(token);
-        }
-        [Authorize(Roles = "Admin")]
-        [ApiController]
-        [Route("api/[controller]")]
-        public class AdminController : ControllerBase
-        {
-            [HttpGet("dashboard")]
-            public IActionResult GetAdminDashboard()
-            {
-                return Ok(new { Message = "Welcome Admin!" });
-            }
-        }
-
-
-        [Authorize(Roles = "User")]
-        [Route("api/user")]
-        public class UserController : ControllerBase
-        {
-            [HttpGet("profile")]
-            public IActionResult UserProfile()
-            {
-                return Ok("This endpoint is accessible by Users.");
-            }
         }
 
     }
