@@ -21,7 +21,6 @@ builder.Services.AddIdentity<User, ApplicationRole>()
 
 // Đăng ký các Repository
 builder.Services.AddControllers();
-
 builder.Services.AddScoped<IPostRepository, PostRepository>();
 builder.Services.AddScoped<ISpecialtyRepository, SpecialtyRepository>();
 builder.Services.AddScoped<IMedicalRecordRepository, MedicalRecordRepository>();
@@ -33,6 +32,7 @@ builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
 builder.Services.AddScoped<IPatientRepository, PatientRepository>();
 builder.Services.AddScoped<RoleManager<ApplicationRole>>();
 builder.Services.AddScoped<UserManager<User>>();
+builder.Services.AddScoped<IUserClaimsPrincipalFactory<User>, CustomUserClaimsPrincipalFactory>();
 // Cấu hình Swagger để tài liệu hóa API
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>

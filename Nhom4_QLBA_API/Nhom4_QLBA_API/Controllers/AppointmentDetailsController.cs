@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Nhom4_QLBA_API.Models;
@@ -16,14 +17,14 @@ namespace Nhom4_QLBA_API.Controllers
         {
             _appointmentDetailsRepository = appointmentDetailsRepository;
         }
-
+        [Authorize(Policy = "CanManageAppointmentDetails")]
         [HttpGet]
         public async Task<IActionResult> GetAllAppointments()
         {
             var appointments = await _appointmentDetailsRepository.GetAllAppointments();
             return Ok(appointments);
         }
-
+        [Authorize(Policy = "CanManageAppointmentDetails")]
         // Lấy chi tiết một cuộc hẹn theo ID
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAppointmentById(int id)
@@ -47,7 +48,7 @@ namespace Nhom4_QLBA_API.Controllers
 
             return Ok(result);
         }
-
+        [Authorize(Policy = "CanManageAppointmentDetails")]
         [HttpPost]
         public async Task<IActionResult> AddAppointment([FromBody] AppointmentDetails appointment)
         {
@@ -57,7 +58,7 @@ namespace Nhom4_QLBA_API.Controllers
             await _appointmentDetailsRepository.AddAppointment(appointment);
             return CreatedAtAction(nameof(GetAppointmentById), new { id = appointment.Id }, appointment);
         }
-
+        [Authorize(Policy = "CanManageAppointmentDetails")]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateAppointment(int id, [FromBody] AppointmentDetails appointment)
         {
@@ -71,7 +72,7 @@ namespace Nhom4_QLBA_API.Controllers
             await _appointmentDetailsRepository.UpdateAppointment(appointment);
             return NoContent();
         }
-
+        [Authorize(Policy = "CanManageAppointmentDetails")]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAppointment(int id)
         {
@@ -82,7 +83,7 @@ namespace Nhom4_QLBA_API.Controllers
             await _appointmentDetailsRepository.DeleteAppointment(id);
             return NoContent();
         }
-
+        [Authorize(Policy = "CanManageAppointmentDetails")]
         [HttpGet("UpcomingAppointments")]
         public async Task<IActionResult> GetUpcomingAppointments([FromQuery] string userName)
         {
@@ -99,7 +100,7 @@ namespace Nhom4_QLBA_API.Controllers
             return Ok(appointments);
         }
 
-
+        [Authorize(Policy = "CanManageAppointmentDetails")]
         [HttpGet("GetAppointmentsByUser")]
         public async Task<IActionResult> GetAppointmentsByUser([FromQuery] string userName)
         {
@@ -116,7 +117,7 @@ namespace Nhom4_QLBA_API.Controllers
 
             return Ok(userAppointments); // Trả về danh sách cuộc hẹn của người dùng
         }
-
+        [Authorize(Policy = "CanManageAppointmentDetails")]
         [HttpGet("GetAppointmentTimes/{appointmentId}")]
         public async Task<IActionResult> GetAppointmentTimes(int appointmentId)
         {

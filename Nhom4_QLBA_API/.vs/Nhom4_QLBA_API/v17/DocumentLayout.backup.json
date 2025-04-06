@@ -1,112 +1,112 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\",
+  "WorkspaceRootPath": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\nhom4_qlba_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\nhom4_qlba_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\appointmentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\appointmentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\appointmentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\repositories\\appointmentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\iappointmentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\repositories\\iappointmentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\specialtycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\postapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\medicalrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\appointmentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\migrations\\20250406011001_addrolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\migrations\\20250406011001_addrolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\appointmentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\appointmentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\appointmentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\repositories\\appointmentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\iappointmentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\repositories\\iappointmentdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\medicalrecorddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\medicalrecorddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\medicalrecorddetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\notifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135037_NewModel7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\medicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\medicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\repositories\\medicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -128,7 +128,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101133334_NewModel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\repositories\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -138,7 +138,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132633_NewModelsz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -148,26 +148,26 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101130119_NewModelz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\repositories\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\repositories\\imedicalrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101122714_NewModelse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\jobs\\notificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\jobs\\notificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\jobs\\notificationjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\migrations\\20250101135115_newmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\migrations\\20250101135115_newmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\migrations\\20250101135115_newmodel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|h:\\congcu\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\migrations\\20250108070942_addappointmenttimecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|d:\\datlichkhambenh\\nhom4_qlba_api\\nhom4_qlba_api\\migrations\\20250108070942_addappointmenttimecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C909E63F-534A-4A5B-AE33-69DF6501FE4A}|Nhom4_QLBA_API\\Nhom4_QLBA_API.csproj|solutionrelative:nhom4_qlba_api\\migrations\\20250108070942_addappointmenttimecolumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -178,97 +178,233 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:1818862802:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250406011001_addRolePermission.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T01:10:01.243Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T13:35:59.21Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Nhom4_QLBA_API.http",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Nhom4_QLBA_API.http",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Nhom4_QLBA_API.http",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Nhom4_QLBA_API.http",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Nhom4_QLBA_API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-01T05:44:31.81Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\appsettings.json",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\appsettings.json",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\appsettings.json",
-              "RelativeToolTip": "Nhom4_QLBA_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-01T05:44:30.235Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Program.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Program.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Program.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwCMAAAAnAAAAAAAAAA==",
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwG0AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T04:57:03.981Z",
+              "WhenOpened": "2025-01-01T12:16:01.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:14:26.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostApiController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\PostApiController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\PostApiController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\PostApiController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\PostApiController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T05:17:31.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:31:02.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\ServiceController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T08:31:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpecialtyController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\SpecialtyController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\SpecialtyController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\SpecialtyController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\SpecialtyController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA7wDgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:14:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T09:17:22.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicalRecordController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\MedicalRecordController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\MedicalRecordController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\MedicalRecordController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\MedicalRecordController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:53:18.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T07:19:36.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AppointmentDetailsController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AppointmentDetailsController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AppointmentDetailsController.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\AppointmentDetailsController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AppointmentDetailsController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AppointmentDetailsController.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\AppointmentDetailsController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswCgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwHcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T09:29:23.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwD0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T12:21:05.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250406011001_addRolePermission.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Migrations\\20250406011001_addRolePermission.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T01:10:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:35:59.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Program.cs",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Program.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Program.cs",
+              "RelativeToolTip": "Nhom4_QLBA_API\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T04:57:03.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\appsettings.json",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\appsettings.json",
+              "RelativeToolTip": "Nhom4_QLBA_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T05:44:30.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "AppointmentDetailsRepository.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\AppointmentDetailsRepository.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\AppointmentDetailsRepository.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Repositories\\AppointmentDetailsRepository.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\AppointmentDetailsRepository.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\AppointmentDetailsRepository.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Repositories\\AppointmentDetailsRepository.cs",
               "ViewState": "AgIAAJ0AAAAAAAAAAADwv7YAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,11 +412,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "AppointmentDetails.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\AppointmentDetails.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\AppointmentDetails.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\AppointmentDetails.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\AppointmentDetails.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\AppointmentDetails.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Models\\AppointmentDetails.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAxwCoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -288,27 +424,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\DoctorController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwCQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T07:19:36.755Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "IAppointmentDetailsRepository.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\IAppointmentDetailsRepository.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\IAppointmentDetailsRepository.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Repositories\\IAppointmentDetailsRepository.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\IAppointmentDetailsRepository.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\IAppointmentDetailsRepository.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Repositories\\IAppointmentDetailsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,35 +436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PostApiController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\PostApiController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\PostApiController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\PostApiController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\PostApiController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T05:17:31.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppointmentController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AppointmentController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\AppointmentController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AppointmentController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:21:05.392Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 44,
               "Title": "20250108070942_AddAppointmentTimeColumns.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250108070942_AddAppointmentTimeColumns.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250108070942_AddAppointmentTimeColumns.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Migrations\\20250108070942_AddAppointmentTimeColumns.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250108070942_AddAppointmentTimeColumns.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250108070942_AddAppointmentTimeColumns.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Migrations\\20250108070942_AddAppointmentTimeColumns.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +448,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "Appointments.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Appointments.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Appointments.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\Appointments.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Appointments.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Appointments.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Models\\Appointments.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,35 +460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "NotificationController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\NotificationController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\NotificationController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\NotificationController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\NotificationController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T09:17:22.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MedicalRecordController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\MedicalRecordController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\MedicalRecordController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\MedicalRecordController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\MedicalRecordController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T06:53:18.134Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 22,
               "Title": "MedicalRecordDetails.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\MedicalRecordDetails.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\MedicalRecordDetails.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\MedicalRecordDetails.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\MedicalRecordDetails.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\MedicalRecordDetails.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Models\\MedicalRecordDetails.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -400,23 +472,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthenticateController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AuthenticateController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\AuthenticateController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\AuthenticateController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\AuthenticateController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T12:16:01.676Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\LoginModel.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\LoginModel.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\LoginModel.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Models\\LoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,47 +484,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SpecialtyController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\SpecialtyController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\SpecialtyController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\SpecialtyController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\SpecialtyController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIBJwD8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:14:46.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\PatientController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDcAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:14:26.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ServiceController.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\ServiceController.cs",
-              "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Controllers\\ServiceController.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Controllers\\ServiceController.cs",
-              "RelativeToolTip": "Nhom4_QLBA_API\\Controllers\\ServiceController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T08:31:46.351Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 20,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\appsettings.Development.json",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\appsettings.Development.json",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\appsettings.Development.json",
               "RelativeToolTip": "Nhom4_QLBA_API\\appsettings.Development.json",
               "ViewState": "AgIAAAQAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -474,9 +498,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Services.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Services.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Services.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\Services.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Services.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Services.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Models\\Services.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -487,7 +511,9 @@
               "DocumentIndex": 30,
               "Title": "20250101134219_NewModel3.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134219_NewModel3.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134219_NewModel3.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134219_NewModel3.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134219_NewModel3.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:42:19.873Z"
             },
@@ -496,7 +522,9 @@
               "DocumentIndex": 29,
               "Title": "20250101134516_NewModel4.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134516_NewModel4.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134516_NewModel4.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134516_NewModel4.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134516_NewModel4.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:45:17.027Z"
             },
@@ -505,7 +533,9 @@
               "DocumentIndex": 28,
               "Title": "20250101134758_NewModel5.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134758_NewModel5.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134758_NewModel5.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134758_NewModel5.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134758_NewModel5.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:47:58.3Z"
             },
@@ -514,7 +544,9 @@
               "DocumentIndex": 27,
               "Title": "20250101134924_NewModel6.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134924_NewModel6.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134924_NewModel6.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134924_NewModel6.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134924_NewModel6.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:49:25.12Z"
             },
@@ -523,7 +555,9 @@
               "DocumentIndex": 25,
               "Title": "20250101135037_NewModel7.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135037_NewModel7.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135037_NewModel7.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135037_NewModel7.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135037_NewModel7.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:50:38.106Z"
             },
@@ -531,9 +565,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "20250101135115_NewModel1.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135115_NewModel1.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135115_NewModel1.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Migrations\\20250101135115_NewModel1.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135115_NewModel1.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101135115_NewModel1.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Migrations\\20250101135115_NewModel1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -544,7 +578,9 @@
               "DocumentIndex": 31,
               "Title": "20250101134028_NewModel2.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134028_NewModel2.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134028_NewModel2.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134028_NewModel2.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101134028_NewModel2.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:40:28.633Z"
             },
@@ -552,9 +588,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "AppointmentRepository.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\AppointmentRepository.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Repositories\\AppointmentRepository.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\AppointmentRepository.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Repositories\\AppointmentRepository.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -565,7 +601,9 @@
               "DocumentIndex": 32,
               "Title": "20250101133334_NewModel1.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101133334_NewModel1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101133334_NewModel1.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101133334_NewModel1.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101133334_NewModel1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:33:34.108Z"
             },
@@ -573,9 +611,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "NotificationRepository.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\NotificationRepository.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\NotificationRepository.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Repositories\\NotificationRepository.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\NotificationRepository.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\NotificationRepository.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Repositories\\NotificationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -586,7 +624,9 @@
               "DocumentIndex": 34,
               "Title": "20250101132955_NewModelszs.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132955_NewModelszs.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132955_NewModelszs.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132955_NewModelszs.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132955_NewModelszs.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:29:55.972Z"
             },
@@ -595,7 +635,9 @@
               "DocumentIndex": 35,
               "Title": "20250101132633_NewModelsz.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132633_NewModelsz.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132633_NewModelsz.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132633_NewModelsz.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132633_NewModelsz.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:26:33.439Z"
             },
@@ -603,9 +645,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Doctors.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Doctors.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Doctors.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\Doctors.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Doctors.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Doctors.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Models\\Doctors.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -616,7 +658,9 @@
               "DocumentIndex": 37,
               "Title": "20250101132517_NewModelzs.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132517_NewModelzs.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132517_NewModelzs.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132517_NewModelzs.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101132517_NewModelzs.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:25:17.554Z"
             },
@@ -625,7 +669,9 @@
               "DocumentIndex": 38,
               "Title": "20250101130119_NewModelz.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101130119_NewModelz.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101130119_NewModelz.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101130119_NewModelz.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101130119_NewModelz.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T13:01:19.622Z"
             },
@@ -633,9 +679,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "MedicalRecordRepository.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\MedicalRecordRepository.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\MedicalRecordRepository.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Repositories\\MedicalRecordRepository.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\MedicalRecordRepository.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\MedicalRecordRepository.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Repositories\\MedicalRecordRepository.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAqwBgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -645,9 +691,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "IMedicalRecordRepository.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\IMedicalRecordRepository.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\IMedicalRecordRepository.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Repositories\\IMedicalRecordRepository.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\IMedicalRecordRepository.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Repositories\\IMedicalRecordRepository.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Repositories\\IMedicalRecordRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -658,7 +704,9 @@
               "DocumentIndex": 41,
               "Title": "20250101122714_NewModelse.cs",
               "DocumentMoniker": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101122714_NewModelse.cs",
+              "RelativeDocumentMoniker": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101122714_NewModelse.cs",
               "ToolTip": "D:\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101122714_NewModelse.cs",
+              "RelativeToolTip": "..\\..\\Android Studio 2022 CODE\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Migrations\\20250101122714_NewModelse.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T12:27:14.295Z"
             },
@@ -666,9 +714,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "Patients.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Patients.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Patients.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\Patients.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Patients.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Patients.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Models\\Patients.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -678,9 +726,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Notifications.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Notifications.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Notifications.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Models\\Notifications.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Notifications.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Models\\Notifications.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Models\\Notifications.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -690,9 +738,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "NotificationJob.cs",
-              "DocumentMoniker": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Jobs\\NotificationJob.cs",
+              "DocumentMoniker": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Jobs\\NotificationJob.cs",
               "RelativeDocumentMoniker": "Nhom4_QLBA_API\\Jobs\\NotificationJob.cs",
-              "ToolTip": "H:\\CONGCU\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Jobs\\NotificationJob.cs",
+              "ToolTip": "D:\\DatLichKhamBenh\\Nhom4_QLBA_API\\Nhom4_QLBA_API\\Jobs\\NotificationJob.cs",
               "RelativeToolTip": "Nhom4_QLBA_API\\Jobs\\NotificationJob.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
